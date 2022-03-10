@@ -33,8 +33,7 @@ __________________
               
 	""")
 	
-	print("Usage : python spamArgv.py < number > < amount >")
-	print("วิธีใช้   : python spamArgv.py <เบอร์> <จำนวน>" )
+	print("วิธีใช้   : python kingmac.py <เบอร์> <จำนวน>" )
 	sys.exit(1)
 	
 
